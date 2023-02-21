@@ -13,7 +13,7 @@ To get started with this project, you will need to have the following tools inst
 
 - Java 11 or higher
 - Apache Maven
-- PostgreSQL database
+- H2 database
 
 ## About this project 
 The tasks for this project were assigned as part of my Codecool course. The project involves developing a Spring Boot backend application for managing information about magical potions in the Wizarding World. The tasks for the project include implementing Spring Data, Spring Data Queries, Spring database connection, and Spring JPA repositories, as well as creating RESTful API endpoints for managing the potions.
