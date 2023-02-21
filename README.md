@@ -50,12 +50,6 @@ The tasks for this project were assigned as part of my Codecool course. The proj
 
 16. By sending a PUT request to /potions/{potion-id}/add the Potion with the potion-id gets updated with the new Ingredient. The response contains the updated Potion object.
 
-## Technologies Used
-- ### Spring Boot
-- ### Spring Data
-- ### Spring Data Queries
-- ### Spring database connection
-- ### Spring JPA repositories
 
 ## Acknowledgements
 This project was created as part of my learning journey to become a better Spring developer. Special thanks to J.K. Rowling for creating the magical world of Harry Potter.
